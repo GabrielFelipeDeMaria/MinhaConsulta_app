@@ -1,6 +1,6 @@
 # MinhaConsulta_APP Checkpoint_2
 
-###Membros:
+Membros:
 
 - Gabriel Felipe De Maria - RM 94772
 - Thierry De Medio - RM 88839
